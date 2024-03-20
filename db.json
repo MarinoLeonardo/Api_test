@@ -8,19 +8,19 @@
         },
         {
             "id": 2,
-            "name": "SAP",
+            "name": "SAP2",
             "description": "Monitoreo de aplicaciones SAP",
             "quantity": 4
         },
         {
             "id": 3,
-            "name": "SAP",
+            "name": "SAP3",
             "description": "Monitoreo de aplicaciones SAP",
             "quantity": 5
         },
         {
             "id": 4,
-            "name": "SAP",
+            "name": "SAP4",
             "description": "Monitoreo de aplicaciones SAP",
             "quantity": 9
         }
