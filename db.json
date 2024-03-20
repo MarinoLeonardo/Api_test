@@ -8,20 +8,20 @@
         },
         {
             "id": 2,
-            "name": "SAP2",
-            "description": "Monitoreo de aplicaciones SAP",
+            "name": "CONTROL MONITOREO",
+            "description": "Realiza el control de los monitoreos superiores",
             "quantity": 4
         },
         {
             "id": 3,
-            "name": "SAP3",
-            "description": "Monitoreo de aplicaciones SAP",
+            "name": "2TC",
+            "description": "Realiza el control de tarjetas prepago",
             "quantity": 5
         },
         {
             "id": 4,
-            "name": "SAP4",
-            "description": "Monitoreo de aplicaciones SAP",
+            "name": "CONTROLES TIENDA",
+            "description": "Controla el strock disponible de tiendas",
             "quantity": 9
         }
     ],
