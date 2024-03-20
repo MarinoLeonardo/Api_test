@@ -23,6 +23,12 @@
             "name": "CONTROLES TIENDA",
             "description": "Controla el strock disponible de tiendas",
             "quantity": 9
+        },
+        {
+            "id": 5,
+            "name": "3TC",
+            "description": "Realiza el control de tarjetas prepago",
+            "quantity": 5
         }
     ],
     "profile":{
